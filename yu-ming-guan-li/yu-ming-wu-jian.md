@@ -124,3 +124,10 @@ FQDNs（Fully Qualified Domain Name），中文名称：完全限定域名，在
 
 ### **⑨ 如何设定缓存？** <a href="#e2-91-a8-e5-a6-82-e4-bd-95-e8-ae-be-e5-ae-9a-e7-bc-93-e5-a-d-98-ef-bc-9f" id="e2-91-a8-e5-a6-82-e4-bd-95-e8-ae-be-e5-ae-9a-e7-bc-93-e5-a-d-98-ef-bc-9f"></a>
 
+<figure><img src="../.gitbook/assets/截圖 2024-01-12 14.28.19.png" alt=""><figcaption></figcaption></figure>
+
+編輯檔案修改圖片
+
+<figure><img src="../.gitbook/assets/截圖 2024-01-08 11.43.16.png" alt=""><figcaption></figcaption></figure>
+
+另一張圖片測試
